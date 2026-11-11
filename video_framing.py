@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 18 14:39:49 2024
-@author: fuyulei
-"""
+
 
 # 视频分帧
 import cv2 as cv
