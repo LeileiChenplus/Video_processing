@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 20 14:23:10 2024
 
-@author: fuyulei
-"""
 # 图片合成视频
 import cv2
 import os
